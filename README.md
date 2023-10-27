@@ -1,6 +1,5 @@
 ### Hello, I am Sándor Benkei 👋
 
-- 🔭 I’m currently working on an Ecommerce website.
-- 📫 How to reach me: sanya.benkei@gmail.com
+- 📫 How to reach me: https://sandor-benkei.vercel.com
 
 
